@@ -18,7 +18,7 @@ local gui09 = "#00beff"
 local gui0A = "#00a209"
 local gui0B = "#d97b00"
 local gui0C = "#7d0090"
-local gui0D = "#ff00b0"
+local gui0D = "#ea11ae"
 local gui0E = "#0051ff"
 local gui0F = "#fff2fb"
 
